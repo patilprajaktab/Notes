@@ -14,7 +14,7 @@ This activity should has 3 fields:
 EditText field for the caption
 Button for taking the photo. This should launch the camera intent.
 
-This app uses SQLite. Table has at least two fields:
+This app uses SQLite. Table has two fields:
 Caption field - This is a user-specified text field.
 Path field - This holds the absolute path to the photo.
 
