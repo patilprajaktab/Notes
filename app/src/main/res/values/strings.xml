@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Camera click </string>
+    <string name="action_compose">Uninstall</string>
+    <string name="title_activity_add_photo">AddPhoto</string>
+    <string name="title_activity_view_photo">ViewPhoto</string>
+    <string name="Caption">New Text</string>
+    <string name="Title">New Text</string>
+    <string name="camera_button">Click to start camera</string>
+    <string name="note_title">Enter the Note here</string>
+    <string name="image">image</string>
+    <string name="button_ok">New Button</string>
+
+</resources>
